@@ -1,6 +1,5 @@
-# Prd
-
-A new Flutter project.
+# Expense-Manager
+A Expense-Manager is a mobile application that maintain your daily transactions.
 
 ## Getting Started
 
